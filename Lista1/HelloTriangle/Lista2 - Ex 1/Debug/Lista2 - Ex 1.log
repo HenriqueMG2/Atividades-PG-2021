@@ -1,0 +1,2 @@
+﻿  Origem.cpp
+D:\GitHub\RepositorioPG2021\Atividades-PG-2021\PG2021-2-main\HelloTriangle\Lista2 - Ex 1\Origem.cpp(13,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glm/glm.hpp': No such file or directory
