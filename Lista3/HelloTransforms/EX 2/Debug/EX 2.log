@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+D:\Estudos\PG\PG2021-2-main\HelloTransforms\EX 2\Origem.cpp(130,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Estudos\PG\PG2021-2-main\HelloTransforms\EX 2\Origem.cpp(131,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\Estudos\PG\PG2021-2-main\HelloTransforms\EX 2\Origem.cpp(132,14): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  EX 2.vcxproj -> D:\Estudos\PG\PG2021-2-main\HelloTransforms\Debug\EX 2.exe

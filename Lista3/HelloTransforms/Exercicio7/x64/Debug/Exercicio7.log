@@ -1,0 +1,17 @@
+﻿  glad.c
+  Origem.cpp
+D:\Estudos\PG\PG2021-2-main\HelloTransforms\Exercicio7\Origem.cpp(39,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwInit, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwTerminate, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwCreateWindow, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwWindowShouldClose, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwSetWindowShouldClose, referenciado na função "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPEAUGLFWwindow@@HHHH@Z)
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwGetFramebufferSize, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwPollEvents, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwSetKeyCallback, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwGetTime, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwMakeContextCurrent, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwSwapBuffers, referenciado na função main
+Origem.obj : error LNK2019: símbolo externo não resolvido, glfwGetProcAddress, referenciado na função main
+..\..\dependencies\glfw-3.3.4.bin.WIN32\lib-vc2019\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+D:\Estudos\PG\PG2021-2-main\HelloTransforms\x64\Debug\HelloTransforms.exe : fatal error LNK1120: 12 externo não resolvidos
